@@ -1,0 +1,16 @@
+<center>
+<font size="6"><font color="grey"<h1>WELCOME TO YOUR PLATFORM</h1></font>
+<form action="/cgi-bin/fedora.py">
+<font size="6"><font color="red"><h3>Select no of Linux-platform/s  to be launched</h3></font>
+<form>
+  <input type="radio" name="x" value="1" checked> 1<br>
+  <input type="radio" name="x" value="2"> 2 <br>
+  <input type="radio" name="x" value="3"> 3 <br>
+</form>
+<input type="submit" value"Submit" name="launch">
+</br></br>
+<body background="https://previews.123rf.com/images/krulua/krulua1412/krulua141200079/34381583-abstract-background-technology-theme-for-your-business-vector.jpg">
+<img src="https://miro.medium.com/max/1400/1*7S7Ich76kyv4w5ILChguJQ.png" height="300" width="500"   >
+
+
+<font size="6"><font color="green"><h3>Enter below for jupyter notebook</h3></font>
